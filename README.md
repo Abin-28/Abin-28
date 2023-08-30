@@ -15,12 +15,12 @@
 <img src="https://komarev.com/ghpvc/?username=Abin-28&color=blue">
 </h3>
 
+<hr>
 <div align="center">
   I'm a <strong>student</strong>, <strong>developer</strong>, and an aspiring <strong>software engineer</strong>. I am ✨ passionate ✨ about computer science, and I have a strong love for mathematics. I'm making projects or learning something new just about every day. You can find my coolest projects here on my GitHub :)
 </div>
+<hr>
 
-
-<img src="Images/Rainbow.gif" width="100%">
 <div align="center">
 <h4> Languages I've played with</h4>
   <img src="https://img.shields.io/badge/-Bash-d92f1c?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-R-violet?style=for-the-badge&logo=r&logoColor=white&labelColor=black">
 </div>
 
-<img src="Images/Rainbow.gif" width="100%">
+<hr>
 
 
 <h3>🎶 Vibing to</h3>
@@ -52,9 +52,7 @@
 <img align="centre" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=dark&hide_border=true" />
 
 
-<div>
-  <img src="Images/Gradients.png" alt="Gradients" width="100%">
-</div>
+
 
 <img src="Images/Rainbow.gif" width="100%">
 
