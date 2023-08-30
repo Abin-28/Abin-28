@@ -19,8 +19,6 @@
   I'm a <strong>student</strong>, <strong>developer</strong>, and an aspiring <strong>software engineer</strong>. I am ✨ passionate ✨ about computer science, and I have a strong love for mathematics. I'm making projects or learning something new just about every day. You can find my coolest projects here on my GitHub :)
 </div>
 
-<hr>
-<img src="Images/Rainbow.gif" width="100%">
 
 <img src="Images/Rainbow.gif" width="100%">
 <div align="center">
@@ -44,7 +42,7 @@
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://tthn0.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
-
+<hr>
 <h3>📈 Interesting numbers</h3>
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Abin-28&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD)](https://git.io/streak-stats)
