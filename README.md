@@ -2,7 +2,7 @@
 <img src="Images/Rainbow.gif" width="100%">
 
 <div align="center">
-  <img src="Images/Hero.png" alt="Profile Picture">
+  <img src="Images/Abin.png" alt="Profile Picture">
 </div>
 
 <h3 align="center">Hey there, I’m Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
