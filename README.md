@@ -37,7 +37,7 @@
 
 
 <hr>
-<h3>📈 Interesting numbers</h3>
+<h3>📈 Status</h3>
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Abin-28&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD)](https://git.io/streak-stats)
 
