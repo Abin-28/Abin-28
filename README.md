@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/akkupy/">
 <img src="https://img.shields.io/badge/-Abin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/">
 </a>
-![GitHub followers](https://img.shields.io/github/followers/Abin-28?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=Abin-28&color=blue)
+<img src="https://img.shields.io/github/followers/Abin-28?label=Follow&style=social">
+<img src="https://komarev.com/ghpvc/?username=Abin-28&color=blue">
 </h3>
 
 <div align="center">
