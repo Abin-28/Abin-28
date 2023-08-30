@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Python-indigo?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Jupyter-purple?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-R-violet?style=for-the-badge&logo=r&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-MySql-violet?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black">
 </div>
 
 
