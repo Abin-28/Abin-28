@@ -46,7 +46,8 @@
 <img align="centre" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=dark&hide_border=true" />
 
 
-
+<p align=center>
+ <a href="https://www.linkedin.com/in/abin-skaria">LinkedIn</a> · <a href="mailto:abinskaria2802@gmail.com">Email</a> 
 
 <img src="Images/Rainbow.gif" width="100%">
 
