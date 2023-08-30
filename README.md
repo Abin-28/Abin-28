@@ -40,7 +40,7 @@
 
 <h3>🎶 Vibing to</h3>
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://tthn0.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <img src="https://tthn0.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 </a>
 <hr>
 <h3>📈 Interesting numbers</h3>
