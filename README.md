@@ -37,21 +37,6 @@
 
 <hr>
 
-<h3>🌎 Bio</h3>
-
-```javascript
-class Me {
-  pronouns = "He" || "Him";
-  skills = ["Data Structures", "Databases", "Git", "Linux", "REST APIs"];
-  constructor(currentlyLearning) {
-    this.skills.push(currentlyLearning);
-  }
-  get education() {
-    return "Pursuing a B.S. in Computer Science";
-  }
-}
-let thomas = new Me("Algorithms");
-```
 
 <h3>🎶 Vibing to</h3>
 <a href="https://github.com/tthn0/Spotify-Readme">
