@@ -5,7 +5,13 @@
   <img src="Images/Hero.png" alt="Profile Picture">
 </div>
 
-<h3 align="center">Hey there, I’m Thomas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h3 align="center">Hey there, I’m Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+[![Linkedin: Akash](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/)](https://www.linkedin.com/in/akkupy/)
+![GitHub followers](https://img.shields.io/github/followers/akkupy?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=akkupy&color=blue)
+</h3>
 
 <div align="center">
   I'm a <strong>student</strong>, <strong>developer</strong>, and an aspiring <strong>software engineer</strong>. I am ✨ passionate ✨ about computer science, and I have a strong love for mathematics. I'm making projects or learning something new just about every day. You can find my coolest projects here on my GitHub :)
