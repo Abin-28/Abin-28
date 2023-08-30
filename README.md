@@ -20,7 +20,9 @@
 </div>
 
 <hr>
+<img src="Images/Rainbow.gif" width="100%">
 
+<img src="Images/Rainbow.gif" width="100%">
 <div align="center">
 <h4> Languages I've played with</h4>
   <img src="https://img.shields.io/badge/-Bash-d92f1c?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
@@ -35,7 +37,7 @@
   <img src="https://img.shields.io/badge/-R-violet?style=for-the-badge&logo=r&logoColor=white&labelColor=black">
 </div>
 
-<hr>
+<img src="Images/Rainbow.gif" width="100%">
 
 
 <h3>🎶 Vibing to</h3>
