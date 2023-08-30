@@ -35,13 +35,7 @@
   <img src="https://img.shields.io/badge/-R-violet?style=for-the-badge&logo=r&logoColor=white&labelColor=black">
 </div>
 
-<hr>
 
-
-<h3>🎶 Vibing to</h3>
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://tthn0.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
-</a>
 <hr>
 <h3>📈 Interesting numbers</h3>
 
