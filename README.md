@@ -8,7 +8,7 @@
 <h3 align="center">Hey there, I’m Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
 </em></p>
-<a href="https://www.linkedin.com/in/akkupy/">
+<a href="https://www.linkedin.com/in/abin-skaria-85140920b/">
 <img src="https://img.shields.io/badge/-Abin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/">
 </a>
 <img src="https://img.shields.io/github/followers/Abin-28?label=Follow&style=social">
