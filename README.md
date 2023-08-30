@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="Images/Rainbow.gif" width="100%">
 
 <div align="center">
@@ -58,22 +58,6 @@ let thomas = new Me("Algorithms");
 
 <img align="centre" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=dark&hide_border=true" />
 
-<h3>🛠 Architecture</h3>
-
-```
-> fetch
-
-💾 OS     ~  macOS
-💻 Host   ~  MacBook Air M1
-💽 Shell  ~  zsh
-```
-
-<h3>📚 Certifications</h3>
-
-<code><img height="25" src="https://tidbits.com/uploads/2019/04/Microsoft-Word-16.24-icon.png"></code>
-<a href="https://www.youracclaim.com/badges/b7ab3bcd-f0b1-4ed3-9bdf-c225dcb4f6ee/public_url">Microsoft Word</a> <br>
-<code><img height="25" src="https://tidbits.com/uploads/2019/04/Microsoft-Excel-16.24-icon.png"></code>
-<a href="https://www.youracclaim.com/badges/5a447ee2-0dce-494b-b55a-6b667b628b69/public_url">Microsoft Excel</a>
 
 <div>
   <img src="Images/Gradients.png" alt="Gradients" width="100%">
