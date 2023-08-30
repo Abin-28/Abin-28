@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JS-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-PHP-green?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Streamlit-green?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-C++-25c492?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Python-indigo?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
