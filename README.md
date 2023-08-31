@@ -21,6 +21,8 @@
 </div>
 <hr>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abin-28" alt="Abin-28" /></a> </p>
+
 <div align="center">
 <h4> Languages I've played with</h4>
   <img src="https://img.shields.io/badge/-Flask-d92f1c?style=for-the-badge&logo=Flask&logoColor=white&labelColor=black">
