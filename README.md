@@ -21,7 +21,9 @@
 </div>
 <hr>
 
+<h3>Github Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abin-28" alt="Abin-28" /></a> </p>
+<hr>
 
 <div align="center">
 <h4> Languages I've played with</h4>
