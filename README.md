@@ -46,7 +46,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=dark" /></p>
 
-
+<p><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abin-skaria-85140920b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abin-skaria-85140920b?trk=profile-badge">Abin Skaria</a></div></p>
+              
 
 <p align=center>
  <a href="https://www.linkedin.com/in/abin-skaria-85140920b">LinkedIn</a> · <a href="mailto:abinskaria2802@gmail.com">Email</a> 
