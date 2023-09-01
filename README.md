@@ -45,8 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abin-28&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=dark" /></p>
               
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abin-skaria-85140920b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abin-skaria-85140920b?trk=profile-badge">Abin Skaria</a></div>
               
 
 <p align=center>
