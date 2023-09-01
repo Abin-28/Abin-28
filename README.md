@@ -41,14 +41,11 @@
 <h3>📈 Status</h3>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=dark" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abin-28&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abin-28&layout=compact&theme=dark&hide_border=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abin-28&layout=compact&theme=dark&hide_border=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abin-28&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD" /></p>
 
 
-
-<h3>📈 Status</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abin-skaria-85140920b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abin-skaria-85140920b?trk=profile-badge">Abin Skaria</a></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=dark" /></p>
               
               
 
