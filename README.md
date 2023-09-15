@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<h4> Languages I've played with</h4>
+
   <img src="https://img.shields.io/badge/-Flask-d92f1c?style=for-the-badge&logo=Flask&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
