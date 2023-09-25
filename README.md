@@ -5,7 +5,7 @@
   <img src="Images/Abin.png" alt="Profile Picture">
 </div>
 
-<h2 align="center">Heyy There, I'm Abin Skaria👋! </h2>
+<h2 align="center">Hey There, I'm Abin Skaria👋! </h2>
 <div align="center">
 <p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
 </em></p> </div>
