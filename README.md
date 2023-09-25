@@ -5,7 +5,7 @@
   <img src="Images/Abin.png" alt="Profile Picture">
 </div>
 
-<h3 align="center">Hey there, I’m Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+<h3 align="center">Hey there, I am Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
 </em></p>
 <a href="https://www.linkedin.com/in/abin-skaria-85140920b/">
