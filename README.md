@@ -5,8 +5,8 @@
   <img src="Images/Abin.png" alt="Profile Picture">
 </div>
 <div>
-<h6 align="center">Hey there, I am Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h6><div>
-<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
+<h2 align="center">Hey there, I am Abin Skaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h2><div>
+<p align="center"><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
 </em></p>
 <a href="https://www.linkedin.com/in/abin-skaria-85140920b/">
 <img src="https://img.shields.io/badge/-Abin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/">
