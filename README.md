@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">Heyy There, I'm Abin Skaria👋! </h2>
-<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a> 
 </em></p>
 <a href="https://www.linkedin.com/in/abin-skaria-85140920b/">
 <img src="https://img.shields.io/badge/-Abin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkupy/">
