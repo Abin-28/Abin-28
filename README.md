@@ -54,33 +54,21 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 
 ## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-28&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-28&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="300">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&theme=github-dark&hide_border=true" alt="GitHub Streak" width="300">
-</div>              
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&theme=github-dark&hide_border=true" alt="GitHub Streak">
+</p>       
 
 <p align=center>
  <a href="https://www.linkedin.com/in/abin-skaria-85140920b">LinkedIn</a> · <a href="mailto:abinskaria2802@gmail.com">Email</a> 
+</p>
 
 ---
 
+<p align=center>
 Thanks for visiting my GitHub profile! 🚀
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Abin-28/Abin-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
