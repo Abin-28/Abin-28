@@ -60,7 +60,7 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=github-dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=github_dark" alt="GitHub Streak">
 </p>       
 
 <p align=center>
