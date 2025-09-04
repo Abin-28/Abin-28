@@ -55,12 +55,12 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abin-28&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=github_dark" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abin-28&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=github_dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=dark" alt="GitHub Streak">
 </p>       
 
 <p align=center>
