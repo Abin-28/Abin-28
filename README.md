@@ -9,6 +9,7 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 - 🔒 Cybersecurity 
 - 💻 Full-Stack Development
 
+<br><br>
 
 ## 🛠️ Tech Stack
 
@@ -51,6 +52,7 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br><br>
 
 ## 📊 GitHub Statistics
 
@@ -62,6 +64,8 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abin-28&show_icons=true&theme=dark" alt="GitHub Streak">
 </p>       
+
+<br><br>
 
 <p align=center>
  <a href="https://www.linkedin.com/in/abin-skaria-85140920b">LinkedIn</a> · <a href="mailto:abinskaria2802@gmail.com">Email</a> 
