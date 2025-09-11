@@ -68,7 +68,7 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 <br><br>
 
 <p align=center>
- <a href="https://www.linkedin.com/in/abin-skaria">LinkedIn</a> · <a href="mailto:abinskaria28@gmail.com">Email</a> 
+ <a href="https://www.linkedin.com/in/abin-skaria">LinkedIn</a> · <a href="mailto:abinskaria28@gmail.com">Email</a> · <a href="https://github.com/Abin-28/Resume/blob/main/Abin_Skaria.pdf">Resume</a>
 </p>
 
 ---
