@@ -59,11 +59,7 @@ I'm a passionate **Computer Science Engineering Graduate** with a strong foundat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abin-28&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-28&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Top Languages" height="180">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abin-28&theme=dark" alt="GitHub Streak">
-</p>       
+</p>   
 
 <br><br>
 
